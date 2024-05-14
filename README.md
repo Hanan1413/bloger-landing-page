@@ -17,7 +17,7 @@ The challenge was to create a landing page for Blogr that is responsive and incl
 
 ### Screenshot
 
-![](images/Bloger-snip.JPG.jpg)
+![](images/Bloger-snip.JPG)
 
 ## Demo
 
