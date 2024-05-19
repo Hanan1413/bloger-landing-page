@@ -21,7 +21,7 @@ The challenge was to create a landing page for Blogr that is responsive and incl
 
 ## Demo
 
-You can view the live demo of the project [here](https://your-live-site-url.com).
+You can view the live demo of the project [here](https://hanan1413.github.io/bloger-landing-page/).
 
 
 ## Features
