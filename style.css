@@ -617,6 +617,10 @@ footer ul {
     margin-top: 15%;
     padding: 0px 0px;
   }
+  .design h2{
+    padding: 0;
+    margin-bottom: 60px;
+  }
   .design-flex {
     display: flex;
     justify-content: start;
@@ -638,15 +642,17 @@ footer ul {
   }
   .design-second {
     display: block;
-    width: 500px;
+    width: 100%;
+    /* height: 400px; */
     margin-left: 50px;
   }
   .design-text {
     width: 60%;
     padding: 0px 80px 50px 100px;
     text-align: left;
-    top: 15%;
+    top: 0;
     left: 7%;
+    bottom: -100px;
   }
 
   /* end of design section */
@@ -759,8 +765,7 @@ footer ul {
   }
   .phones {
     width: 400px;
-    position: absolute;
-    top: -100px;
+   
   }
 }
 
