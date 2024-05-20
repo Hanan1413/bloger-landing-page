@@ -444,6 +444,40 @@ footer ul {
 /* End of footer section */
 
 
+
+@media only screen and (min-width: 820px) and (max-width: 822px){
+  
+.phones {
+  width: 400px;
+  position: absolute;
+  top: 0;
+}
+
+
+}
+@media only screen and (min-width: 823px) and (max-width: 1024px) {
+  .laptop {
+    height: 80vh;
+  }
+
+  .design-flex {
+    height: 60vh;
+  }
+
+  .art {
+    margin-top: 150px;
+  }
+  
+  .phones {
+    width: 400px;
+    /* top:-100px */
+   
+  }
+
+
+}
+
+
 @media only screen and (min-width: 1000px) {
  
 
@@ -755,37 +789,3 @@ footer ul {
   }
 }
 
-
-
-
-@media only screen and (min-width: 820px) and (max-width: 822px){
-  
-.phones {
-  width: 400px;
-  position: absolute;
-  top: 0;
-}
-
-
-}
-@media only screen and (min-width: 823px) and (max-width: 1024px) {
-  .laptop {
-    height: 80vh;
-  }
-
-  .design-flex {
-    height: 60vh;
-  }
-
-  .art {
-    margin-top: 150px;
-  }
-  
-  .phones {
-    width: 400px;
-    /* top:-100px */
-   
-  }
-
-
-}
